@@ -1,0 +1,14 @@
+# Build results
+[Dd]ebug/
+[Release]/
+x64/
+x86/
+bin/
+obj/
+
+# Visual Studio cache and settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
